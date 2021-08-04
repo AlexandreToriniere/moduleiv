@@ -147,6 +147,12 @@ footer ul p a{
         font-size: 50px;
         margin-left: 15%;
     }
+    
+    .nourriture p{
+    font-family: 'Ruthie', cursive;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
 
     .pays{
         width: 250px;
