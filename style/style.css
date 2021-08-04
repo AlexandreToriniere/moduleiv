@@ -236,4 +236,11 @@ footer ul p a{
     .section1{
         height:100vh;
     }
+    
+    .logo{
+    color: white;
+    flex: 1 1 50rem;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 50px;
+}
 }
