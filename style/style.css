@@ -44,7 +44,7 @@ a{
 .section1{
     width: 100%;
     height: 30vh;
-    background-image: url(/par/image/restaurant-449952_1920.jpg);
+    background-image: url(../image/restaurant-449952_1920.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
