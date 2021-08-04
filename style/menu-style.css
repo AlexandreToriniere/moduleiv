@@ -44,7 +44,7 @@ a{
 .section1{
     width: 100%;
     height: 30vh;
-    background-image: url(/par/image/sunrise-photos-5AMSZcgN_cM-unsplash.jpg);
+    background-image: url(../image/sunrise-photos-5AMSZcgN_cM-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
